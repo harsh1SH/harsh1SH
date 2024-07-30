@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @harsh1SH
+- 👋 Hi, I’m @harsh1SH<br>
 -this is the hotel managament software
